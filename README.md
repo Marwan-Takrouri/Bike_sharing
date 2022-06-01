@@ -74,7 +74,7 @@ The graph shows End points from city downtown and core areas I think that is whe
 
 The bikes appear to be used primarily for commutes to the work during the week, and The first graph stands out the check out time and length of rentals trips by users it shows a length p=of trips of 60 mins , which might be commuting from the outer point to the downtown area or vice versa or it might be representing trips of people using bike rides to get from point A to point B simply. The Graph represent the majority of the bikes by Males . The graph represents the hours structure of peaks that shows 6 Am to 9 pm for both male , females and unknown distribution Monday thru Friday and weekend, from my point of view the un captured unknown represents tourists maybe or students / kids . This represents the usage of bikes by gender by weekday , shows first degree males in all week days , then second unknown and third the females . and it shows occupation from Sunday to Sunday all week. Pie chart shows total number of Total trips of 2,344,224 With the most proportion of male riders .
 
-https://public.tableau.com/app/profile/marwan.takrouri/viz/Challenge_16539721460770/NYCCitibikeanalysis
+https://public.tableau.com/app/profile/marwan.takrouri/viz/Challenge_16539721460770/NYCCitibikeanalysis?publish=yes
 https://public.tableau.com/app/profile/marwan.takrouri/viz/ModuleDashboard_16539685020060/NYCCitiBikeDashboard
 
 
