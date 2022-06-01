@@ -79,4 +79,5 @@ https://public.tableau.com/app/profile/marwan.takrouri/viz/ModuleDashboard_16539
 
 
 [link to dashboard](https://public.tableau.com/app/profile/marwan.takrouri/viz/ModuleDashboard_16539685020060/NYCCitiBikeDashboard)
-[link to challenge]("https://public.tableau.com/app/profile/marwan.takrouri/viz/Challenge_16539721460770/NYCCitibikeanalysis?publish=yes")
+
+[link to challenge](https://public.tableau.com/app/profile/marwan.takrouri/viz/Challenge_16539721460770/NYCCitibikeanalysis?publish=yes)
